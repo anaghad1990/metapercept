@@ -1,0 +1,23 @@
+/* widget area */
+.devn_filter_placeholder + .spinner {
+    background-position: center;
+    float: left;
+    margin: 10px 0;
+    width: 100%;
+}
+
+.devn_filter_placeholder table {
+    width: 100%;
+}
+
+.devn_filter_placeholder th {
+    text-align: left;
+}
+
+.devn_filter_placeholder td {
+    vertical-align: top;
+}
+
+p.dev-filter-display-label, p.dev-filter-display-color {
+    display: none;
+}

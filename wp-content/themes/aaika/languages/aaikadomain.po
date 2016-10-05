@@ -1,0 +1,1547 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid ""
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/settings/woo-functions.php:410
+msgid " Products"
+msgstr ""
+
+#. Text in function
+#: aaika/options/fields/color_gradient/field_color_gradient.php:1
+msgid " To:"
+msgstr ""
+
+#. Text in function
+#: aaika/options/fields/google_webfonts/field_google_webfonts.php:1
+msgid " to preview a font, then select your choice below."
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.functions.php:118
+msgid "%1$s - %2$s "
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.functions.php:118
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: aaika/core/shortcodes/templates/default-loop.php:19
+#: aaika/core/shortcodes/templates/single-post.php:17
+msgid "%n comments"
+msgstr ""
+
+#. Text in function
+#: aaika/comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: aaika/image.php:19
+msgid "&larr; Previous"
+msgstr ""
+
+#. Text in function
+#: aaika/options/fields/blog/field_blog.php:78
+#: aaika/options/fields/blog/field_blog.php:79
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.class.php:447
+msgid ","
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.class.php:447
+msgid ", "
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:145
+msgid "- Select Country -"
+msgstr ""
+
+#. Text in function
+#: aaika/core/shortcodes/templates/default-loop.php:19
+#: aaika/core/shortcodes/templates/single-post.php:17
+msgid "0 comments"
+msgstr ""
+
+#. Text in function
+#: aaika/core/shortcodes/templates/default-loop.php:19
+#: aaika/core/shortcodes/templates/single-post.php:17
+msgid "1 comment"
+msgstr ""
+
+#. Text in echo
+#: aaika/404.php:14
+msgid "404"
+msgstr ""
+
+#. Text in function
+#: aaika/options.php:1
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array, great to allow child themes, to add/remove sections from the options.</p>"
+msgstr ""
+
+#. Text in function
+#: aaika/options.php:1
+msgid "<p class=\"description\">general configuration options for theme</p>"
+msgstr ""
+
+#. Text in function
+#: aaika/options.php:1
+msgid "<p>This is the HTML which can be displayed before the form, it isnt required, but more info is always better. Anything goes in terms of markup here, any HTML.</p>"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.class.php:447
+msgid "<span class=\"%1$s labl\">Tags: </span> %2$s"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.class.php:367
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#. Text in function
+#: aaika/single.php:83
+msgid "<span class=\"meta-nav\">&larr;</span> Previous Article"
+msgstr ""
+
+#. Text in function
+#: aaika/image.php:28
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#. Text in echo
+#: aaika/options/fields/blog/field_blog.php:82
+msgid "<strong>Warning:</strong> these pages should not be the same!"
+msgstr ""
+
+#. Text in function
+#: aaika/options/fields/blog/field_blog.php:74
+msgid "A <a href=\"%s\">static page</a> (select below)"
+msgstr ""
+
+#. Text in function
+#: aaika/options.php:1
+msgid "A Section added by hook"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:767
+msgid "AND"
+msgstr ""
+
+#. Text in function
+#: aaika/options/fields/layouts/field_layouts.php:42
+msgid "ARE YOU SURE?\\n\\nIf you delete this layout may some page will be lost layout and must use its parent layout"
+msgstr ""
+
+#. Text in function
+#: aaika/author.php:44
+msgid "About %s"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.login.php:36
+msgid "Account Login"
+msgstr ""
+
+#. Text in function
+#: aaika/options/fields/multi_text/field_multi_text.php:1
+msgid "Add More"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/compare-product/woocompare-frontend.php:1
+msgid "Add to cart"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/compare-product/woocompare-frontend.php:1
+msgid "Added"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/single-product/tabs/additional-information.php:1
+msgid "Additional Information"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:160
+msgid "Address"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/shortcodes/templates/works-loop.php:192
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:783
+msgid "All (no hierarchical)"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:784
+msgid "All Hierarchical"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:177
+msgid "Already Registered?"
+msgstr ""
+
+#. Text in echo
+#: aaika/tag.php:45
+#: aaika/archive.php:57
+#: aaika/author.php:72
+#: aaika/category.php:60
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/page-left.php:58
+#: aaika/templates/page-right.php:51
+#: aaika/index.php:50
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#. Text in function
+#: aaika/core/widgets/xcode.php:107
+msgid "Arbitrary text, HTML, Javascript, CSS and PHP Code"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:760
+msgid "Attribute:"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.actions.php:547
+msgid "Attributes"
+msgstr ""
+
+#. Text in echo
+#: aaika/single-our-works.php:100
+msgid "Author"
+msgstr ""
+
+#. Text in function
+#: aaika/author.php:29
+msgid "Author Archives: %s"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/compare-product/woocompare-frontend.php:1
+msgid "Availability"
+msgstr ""
+
+#. Text in echo
+#: aaika/archive.php:31
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: aaika/options/fields/blog/field_blog.php:89
+msgid "Blog Layout"
+msgstr ""
+
+#. Text in echo
+#: aaika/options/fields/blog/field_blog.php:141
+msgid "Blog pages show at most"
+msgstr ""
+
+#. Text in function
+#: aaika/options/fields/upload/field_upload.php:1
+msgid "Browse"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-reset-widget.php:87
+msgid "Button Label"
+msgstr ""
+
+#. Text in function
+#: aaika/comments.php:69
+msgid "Cancel Reply"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/header/header-8.php:63
+#: aaika/templates/header/header-4.php:33
+#: aaika/templates/header/header-2.php:30
+#: aaika/templates/header/header-7.php:58
+#: aaika/templates/header/header-3.php:30
+#: aaika/templates/header/header-1.php:31
+#: aaika/woocommerce/settings/woo-functions.php:326
+#: aaika/templates/header/header-6.php:61
+msgid "Cart"
+msgstr ""
+
+#. Text in echo
+#: aaika/single-our-works.php:92
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: aaika/options/fields/blog/field_blog.php:110
+msgid "Categories for blog timeline"
+msgstr ""
+
+#. Text in function
+#: aaika/category.php:42
+msgid "Category Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/settings/woo-functions.php:306
+#: aaika/woocommerce/settings/woo-functions.php:344
+msgid "Checkout"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:138
+msgid "City"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/compare-product/woocompare-widget.php:38
+msgid "Clear all"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/compare-product/templates.php:68
+msgid "Close window [X]"
+msgstr ""
+
+#. Text in function
+#: aaika/core/widgets/xcode.php:107
+msgid "Code"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:774
+msgid "Color"
+msgstr ""
+
+#. Text in echo
+#: aaika/comments.php:54
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in echo
+#: aaika/comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/compare-product/woocompare-widget.php:39
+msgid "Compare"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:71
+msgid "Confirm Password"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/widgets/xcode.php:100
+msgid "Custom Class:"
+msgstr ""
+
+#. Text in function
+#: aaika/options.php:1
+msgid "DEVN - Premium Theme"
+msgstr ""
+
+#. Text in function
+#: aaika/options.php:1
+msgid "DEVN AAIKA"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/compare-product/woocompare-widget.php:1
+msgid "DEVN Woo Compare Widget"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:806
+msgid "DEVN Woo Filter Widget"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/filter-product/widgets/devn-filter-reset-widget.php:1
+msgid "DEVN Woo Reset Filter Widget"
+msgstr ""
+
+#. Text in function
+#: aaika/archive.php:25
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: aaika/single-our-works.php:85
+#: aaika/woocommerce/settings/woo-functions.php:410
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:95
+msgid "Day"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/settings/woo-functions.php:410
+msgid "Default Order"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/compare-product/woocompare-frontend.php:1
+msgid "Description"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "Dev Mode Info"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:138
+msgid "Disabled user register."
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:781
+msgid "Display (default All):"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.actions.php:187
+msgid "Display Breadcrumb"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.actions.php:187
+msgid "Display Top Panel"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:72
+msgid "Do not forget your password"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:776
+msgid "Dropdown"
+msgstr ""
+
+#. Text in function
+#: aaika/content.php:82
+#: aaika/image.php:41
+#: aaika/core/devn.functions.php:99
+#: aaika/core/devn.functions.php:128
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:55
+#: aaika/comments.php:69
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:138
+msgid "Empty user login"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:138
+msgid "Enter a correct email."
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:138
+msgid "Enter a validate email."
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "Export Options"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.actions.php:454
+msgid "Facebook"
+msgstr ""
+
+#. Text in echo
+#: aaika/content.php:87
+msgid "Featured"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:85
+msgid "Female"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:806
+msgid "Filter products ajax widget!"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:236
+msgid "Filters List:"
+msgstr ""
+
+#. Text in function
+#: aaika/core/shortcodes/register.php:1016
+msgid "Flex child slider"
+msgstr ""
+
+#. Text in function
+#: aaika/core/widgets/flickr.php:1
+msgid "Flickr"
+msgstr ""
+
+#. Text in echo
+#: aaika/options/fields/blog/field_blog.php:151
+#: aaika/options/fields/blog/field_blog.php:152
+msgid "For each article in a feed, show"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.login.php:73
+msgid "Forgot Password?"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.forgot.php:24
+msgid "Forgot your password"
+msgstr ""
+
+#. Text in function
+#: aaika/options/fields/color_gradient/field_color_gradient.php:1
+msgid "From:"
+msgstr ""
+
+#. Text in echo
+#: aaika/options/fields/blog/field_blog.php:63
+#: aaika/options/fields/blog/field_blog.php:66
+msgid "Front page displays"
+msgstr ""
+
+#. Text in function
+#: aaika/options/fields/blog/field_blog.php:78
+msgid "Front page: %s"
+msgstr ""
+
+#. Text in echo
+#: aaika/options/fields/blog/field_blog.php:153
+msgid "Full text"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:83
+msgid "Gender"
+msgstr ""
+
+#. Text in function
+#: aaika/options.php:1
+msgid "General Settings"
+msgstr ""
+
+#. Text in echo
+#: aaika/404.php:25
+msgid "Go to Back"
+msgstr ""
+
+#. Text in function
+#: aaika/options/fields/google_webfonts/field_google_webfonts.php:1
+msgid "Google Web Fonts directory"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.actions.php:470
+msgid "Google+"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "Here you can copy/download your themes current option settings. Keep this safe as you can use it as a backup should anything go wrong. Or you can use it to restore your settings on this site (or any other site). You also have the handy option to copy the link to yours sites settings. Which you can then use to duplicate on another site"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.class.php:488
+#: aaika/templates/devn.login.php:21
+#: aaika/templates/devn.register.php:20
+msgid "Home"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:167
+msgid "I agree the User Agreement and"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/compare-product/woocompare-frontend.php:1
+msgid "Image"
+msgstr ""
+
+#. Text in echo
+#: aaika/image.php:18
+msgid "Image navigation"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "Import"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "Import / Export"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "Import / Export Options"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.actions.php:187
+msgid "Import Demos"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "Import Options"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/wishlist/templates/wishlist.php:124
+msgid "In Stock"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/compare-product/woocompare-frontend.php:1
+msgid "In stock"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/settings/woo-functions.php:328
+msgid "Item(s)"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:775
+msgid "Label"
+msgstr ""
+
+#. Text in function
+#: aaika/comments.php:69
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: aaika/comments.php:69
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in function
+#: aaika/options.php:1
+msgid "Limit logo\\'s size. Eg: 60"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.actions.php:555
+msgid "Link read more"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.actions.php:571
+msgid "Link submit"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:773
+msgid "List"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:179
+msgid "Log In"
+msgstr ""
+
+#. Text in function
+#: aaika/comments.php:69
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.login.php:18
+#: aaika/templates/devn.login.php:21
+msgid "Login"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.login.php:76
+msgid "Login Now!"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:138
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#. Text in function
+#: aaika/options.php:1
+msgid "Logo Max Height"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:84
+msgid "Male"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/header/header-8.php:77
+#: aaika/templates/header/header-4.php:57
+#: aaika/templates/header/header-2.php:44
+#: aaika/templates/header/header-7.php:72
+#: aaika/templates/header/header-3.php:44
+#: aaika/templates/header/header-1.php:45
+#: aaika/templates/header/header-onepage.php:29
+#: aaika/templates/header/header-5.php:55
+#: aaika/templates/header/header-6.php:75
+msgid "Menu"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:108
+msgid "Month"
+msgstr ""
+
+#. Text in function
+#: aaika/archive.php:27
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/shortcodes/templates/works-loop.php:248
+msgid "More Detail"
+msgstr ""
+
+#. Text in echo
+#: aaika/single-our-works.php:78
+#: aaika/woocommerce/settings/woo-functions.php:410
+#: aaika/comments.php:69
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:48
+msgid "Needed to enter the website"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:56
+msgid "Needed to verify your account"
+msgstr ""
+
+#. Text in function
+#: aaika/comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.class.php:370
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: aaika/image.php:20
+msgid "Next &rarr;"
+msgstr ""
+
+#. Text in function
+#: aaika/single.php:84
+msgid "Next Article<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/page-left.php:43
+#: aaika/templates/page-right.php:36
+#: aaika/index.php:35
+msgid "No posts to display"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/compare-product/templates.php:93
+msgid "No products added in the compare table."
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/compare-product/woocompare-frontend.php:1
+msgid "No products to compare"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/wishlist/templates/wishlist.php:146
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/page-left.php:54
+#: aaika/archive.php:53
+#: aaika/templates/page-right.php:47
+#: aaika/author.php:68
+#: aaika/category.php:56
+#: aaika/search.php:44
+#: aaika/index.php:46
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:768
+msgid "OR"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:785
+msgid "Only Parent"
+msgstr ""
+
+#. Text in echo
+#: aaika/404.php:16
+msgid "Oops... Page Not Found!"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "Options"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:86
+msgid "Other"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/coming-soon.php:81
+msgid "Our website is under construction. We'll be here soon with our new awesome site. Get best experience with this one."
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/wishlist/templates/wishlist.php:124
+msgid "Out of Stock"
+msgstr ""
+
+#. Text in function
+#: aaika/content.php:91
+#: aaika/image.php:90
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.login.php:48
+#: aaika/templates/devn.register.php:63
+msgid "Password"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:138
+msgid "Password does not match."
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:138
+msgid "Password too short."
+msgstr ""
+
+#. Text in function
+#: aaika/content.php:79
+#: aaika/core/devn.class.php:691
+#: aaika/core/devn.class.php:665
+#: aaika/core/devn.class.php:726
+#: aaika/post-related.php:56
+#: aaika/post-related.php:61
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.functions.php:99
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:138
+msgid "Please check your email and reset your password."
+msgstr ""
+
+#. Text in echo
+#: aaika/core/widgets/tabbed.php:21
+msgid "Popular"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.actions.php:446
+msgid "Position"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.class.php:364
+msgid "Post navigation"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/shortcodes/templates/default-loop.php:15
+#: aaika/core/shortcodes/templates/single-post.php:17
+msgid "Posted"
+msgstr ""
+
+#. Text in function
+#: aaika/core/shortcodes/templates/flip-vertical.php:32
+#: aaika/core/shortcodes/templates/list-loop.php:16
+#: aaika/core/shortcodes/templates/default-loop.php:22
+#: aaika/core/shortcodes/templates/services-loop.php:27
+#: aaika/core/shortcodes/templates/single-post.php:22
+#: aaika/core/shortcodes/templates/home-news.php:35
+#: aaika/core/shortcodes/templates/home-news-metro.php:25
+#: aaika/core/shortcodes/templates/recents-slider.php:39
+#: aaika/core/shortcodes/templates/footer-loop.php:23
+#: aaika/core/shortcodes/templates/recent-onepage.php:27
+#: aaika/core/shortcodes/templates/flip-horizontal.php:32
+#: aaika/core/shortcodes/templates/teaser-loop.php:15
+msgid "Posts not found"
+msgstr ""
+
+#. Text in function
+#: aaika/options/fields/blog/field_blog.php:79
+msgid "Posts page: %s"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.actions.php:514
+#: aaika/woocommerce/compare-product/woocompare-frontend.php:1
+#: aaika/woocommerce/settings/woo-functions.php:410
+msgid "Price"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.actions.php:187
+msgid "Pricing Tables Fields"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.functions.php:269
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/compare-product/woocompare-frontend.php:1
+#: aaika/woocommerce/compare-product/templates.php:40
+msgid "Product Comparison"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/single-product/tabs/description.php:1
+msgid "Product Description"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/wishlist/templates/wishlist.php:74
+msgid "Product Name"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/settings/woo-functions.php:410
+msgid "Products"
+msgstr ""
+
+#. Text in echo
+#: aaika/single-our-works.php:32
+#: aaika/our-works.php:26
+msgid "Project Description"
+msgstr ""
+
+#. Text in echo
+#: aaika/single-our-works.php:74
+msgid "Project Details"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.actions.php:187
+msgid "Project\\'s Link"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:765
+msgid "Query Type:"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.actions.php:408
+msgid "Rate"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/single-product/rating.php:23
+msgid "Rated %s out of 5"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/settings/woo-functions.php:410
+msgid "Rating"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/shortcodes/elements.php:178
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: aaika/core/shortcodes/templates/services-loop.php:23
+#: aaika/core/shortcodes/elements.php:531
+#: aaika/core/shortcodes/elements.php:616
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: aaika/content.php:91
+msgid "Read more &#187;"
+msgstr ""
+
+#. Text in function
+#: aaika/templates/page-left.php:47
+#: aaika/templates/page-right.php:40
+#: aaika/index.php:39
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#. Text in echo
+#: aaika/core/widgets/tabbed.php:22
+msgid "Recent"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/header/header-8.php:34
+#: aaika/templates/header/header-7.php:34
+#: aaika/templates/header/header-6.php:34
+#: aaika/templates/devn.register.php:17
+#: aaika/templates/devn.register.php:20
+msgid "Register"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:175
+msgid "Register Now!"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.login.php:69
+msgid "Register new Account!"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:42
+msgid "Registration form"
+msgstr ""
+
+#. Text in echo
+#: aaika/post-related.php:42
+msgid "Related Articles"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.login.php:60
+msgid "Remember Me"
+msgstr ""
+
+#. Text in function
+#: aaika/options/fields/multi_text/field_multi_text.php:1
+#: aaika/woocommerce/compare-product/woocompare-frontend.php:589
+#: aaika/woocommerce/compare-product/templates.php:101
+msgid "Remove"
+msgstr ""
+
+#. Text in function
+#: aaika/options/fields/upload/field_upload.php:1
+msgid "Remove Upload"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/wishlist/templates/wishlist.php:98
+msgid "Remove this product"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.functions.php:140
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/filter-product/widgets/devn-filter-reset-widget.php:1
+msgid "Reset All Filters"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/filter-product/widgets/devn-filter-reset-widget.php:1
+msgid "Reset all filters setted by DEVN Filter Widget"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.forgot.php:33
+msgid "Reset password!"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/sample.php:108
+msgid "Sample Data"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "Save Changes"
+msgstr ""
+
+#. Text in echo
+#: aaika/searchform.php:7
+#: aaika/searchform.php:8
+#: aaika/searchform.php:9
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: aaika/search.php:24
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.actions.php:187
+msgid "Select Footer"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.actions.php:187
+msgid "Select Header"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:1
+msgid "Select a country&hellip;"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/footer/footer-one-page.php:69
+msgid "Send Message"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:1
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#. Text in echo
+#: aaika/single.php:34
+msgid "Share this Post"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/settings/woo-functions.php:410
+msgid "Show"
+msgstr ""
+
+#. Text in echo
+#: aaika/single-our-works.php:38
+msgid "Show More"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/widgets/xcode.php:93
+msgid "Show Title:"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/settings/woo-functions.php:410
+msgid "Show details"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/header/header-8.php:29
+#: aaika/templates/header/header-7.php:29
+#: aaika/templates/header/header-6.php:29
+msgid "Sign In"
+msgstr ""
+
+#. Text in echo
+#: aaika/404.php:18
+msgid "Sorry the Page Could not be Found here."
+msgstr ""
+
+#. Text in echo
+#: aaika/search.php:49
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/settings/woo-functions.php:410
+msgid "Sort by"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.actions.php:187
+msgid "Staff Profiles"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/wishlist/templates/wishlist.php:76
+msgid "Stock Status"
+msgstr ""
+
+#. Text in function
+#: aaika/comments.php:69
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in echo
+#: aaika/options/fields/blog/field_blog.php:154
+msgid "Summary"
+msgstr ""
+
+#. Text in echo
+#: aaika/options/fields/blog/field_blog.php:147
+msgid "Syndication feeds show the most recent"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/widgets/tabbed.php:23
+msgid "Tags"
+msgstr ""
+
+#. Text in function
+#: aaika/core/shortcodes/templates/our-team.php:151
+msgid "Teams not found"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:168
+msgid "Terms &amp; Condition"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.actions.php:187
+msgid "Testimonial Options"
+msgstr ""
+
+#. Text in function
+#: aaika/core/shortcodes/templates/testimonials.php:91
+msgid "Testimonials not found"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.actions.php:563
+msgid "Text button submit"
+msgstr ""
+
+#. Text in function
+#: aaika/options/fields/google_webfonts/field_google_webfonts.php:1
+msgid "The fonts provided below are free to use custom fonts from the"
+msgstr ""
+
+#. Text in function
+#: aaika/woocommerce/compare-product/woocompare-widget.php:1
+msgid "The widget show the list of products added in the compare table."
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:138
+msgid "This email address is already registered."
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:138
+msgid "This email not exist in my system."
+msgstr ""
+
+#. Text in echo
+#: aaika/comments.php:14
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:138
+msgid "This username is already registered."
+msgstr ""
+
+#. Text in function
+#: aaika/options.php:1
+msgid "This will be display as logo at header of every page"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:754
+#: aaika/woocommerce/compare-product/woocompare-widget.php:56
+#: aaika/woocommerce/compare-product/woocompare-frontend.php:1
+#: aaika/woocommerce/filter-product/widgets/devn-filter-reset-widget.php:81
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/widgets/xcode.php:87
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.actions.php:523
+msgid "Try out description"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.actions.php:539
+msgid "Try out link"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.actions.php:531
+msgid "Try out text"
+msgstr ""
+
+#. Text in echo
+#: aaika/404.php:20
+msgid "Try using the button below to go to main page of the site"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.actions.php:462
+msgid "Twitter"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/filter-product/widgets/devn-filter-widget.php:771
+msgid "Type:"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/wishlist/templates/wishlist.php:75
+msgid "Unit Price"
+msgstr ""
+
+#. Text in function
+#: aaika/options.php:1
+msgid "Upload Logo"
+msgstr ""
+
+#. Text in function
+#: aaika/options.php:1
+msgid "Upload new or from media library to use as your logo. We recommend that you use images without borders and throughout."
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.login.php:40
+#: aaika/templates/devn.register.php:47
+msgid "Username"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.login.php:42
+msgid "Username or Email"
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/settings/woo-functions.php:305
+#: aaika/woocommerce/settings/woo-functions.php:343
+msgid "View Cart"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/footer/footer-one-page.php:62
+msgid "View Larger Map"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.class.php:441
+msgid "View all posts by %s"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/header/header-8.php:61
+#: aaika/templates/header/header-4.php:31
+#: aaika/templates/header/header-2.php:28
+#: aaika/templates/header/header-7.php:56
+#: aaika/templates/header/header-3.php:28
+#: aaika/templates/header/header-1.php:29
+#: aaika/templates/header/header-5.php:30
+#: aaika/templates/header/header-6.php:59
+msgid "View your shopping cart"
+msgstr ""
+
+#. Text in echo
+#: aaika/single-our-works.php:111
+msgid "Visit Site"
+msgstr ""
+
+#. Text in function
+#: aaika/options/options.php:1
+msgid "WARNING! This will overwrite any existing options, please proceed with caution!"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/coming-soon.php:24
+msgid "We\\'re Launching Soon"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.actions.php:399
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: aaika/templates/header/header-8.php:56
+#: aaika/templates/header/header-7.php:51
+#: aaika/templates/header/header-6.php:54
+msgid "Welcome "
+msgstr ""
+
+#. Text in function
+#: aaika/core/shortcodes/templates/works-loop.php:277
+msgid "Works not found"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:138
+msgid "Wrong username or password."
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.register.php:123
+msgid "Year"
+msgstr ""
+
+#. Text in function
+#: aaika/archive.php:29
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: aaika/templates/devn.forgot.php:17
+#: aaika/templates/devn.login.php:29
+#: aaika/templates/devn.register.php:29
+msgid "You are logged in"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:138
+msgid "You must agree the User Agreement, Terms & Condition."
+msgstr ""
+
+#. Text in function
+#: aaika/comments.php:69
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/header/header-5.php:32
+msgid "Your Cart"
+msgstr ""
+
+#. Text in echo
+#: aaika/templates/devn.forgot.php:28
+msgid "Your Email"
+msgstr ""
+
+#. Text in echo
+#: aaika/core/devn.functions.php:132
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: aaika/options/fields/blog/field_blog.php:69
+msgid "Your latest posts"
+msgstr ""
+
+#. Text in echo
+#: aaika/options/fields/blog/field_blog.php:148
+msgid "items"
+msgstr ""
+
+#. Text in function
+#: aaika/core/devn.user.php:138
+msgid "login successful, redirecting..."
+msgstr ""
+
+#. Text in echo
+#: aaika/woocommerce/single-product/rating.php:25
+msgid "out of 5"
+msgstr ""
+
+#. Text in echo
+#: aaika/options/fields/blog/field_blog.php:143
+msgid "posts"
+msgstr ""
+
+#. Text in function
+#: aaika/content.php:91
+msgid "read more &#187;"
+msgstr ""
+
+#. Text in function
+#: aaika/core/shortcodes/register.php:1
+msgid "template not found"
+msgstr ""

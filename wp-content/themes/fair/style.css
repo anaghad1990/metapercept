@@ -1,0 +1,53 @@
+/*
+Theme Name: Fair
+Theme URI: http://fair.edge-themes.com/
+Description: A Fresh Multipurpose Theme for Creative Businesses & Individuals
+Author: Edge Themes
+Author URI: http://demo.edge-themes.com
+Version: 1.0
+License: GNU General Public License
+License URI: licence/GPL.txt
+Text Domain: fair
+Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-menu, featured-images, flexible-header, post-formats, sticky-post, translation-ready
+
+CSS changes can be made in files in the /css/ folder. This is a placeholder file required by WordPress, so do not delete it.
+
+*/
+
+footer .edgtf-footer-bottom-holder {
+    width: 100%;
+    background-color: gray!important;
+    padding: 18px 0;
+}
+
+.edgtf-container-inner {
+    width: 1300px!important;
+    margin: 0 auto;
+}
+
+.edgtf-three-columns .edgtf-column {
+    width: 49%!important;
+    float: left;
+}
+
+.edgtf-five-columns>.edgtf-five-columns-inner, .edgtf-four-columns>.edgtf-four-columns-inner, .edgtf-three-columns>.edgtf-three-columns-inner, .edgtf-two-columns-50-50>.edgtf-two-columns-50-50-inner {
+    margin: 0 95px;
+}
+
+.edgtf-five-columns>.edgtf-five-columns-inner, .edgtf-four-columns>.edgtf-four-columns-inner, .edgtf-three-columns>.edgtf-three-columns-inner, .edgtf-two-columns-50-50>.edgtf-two-columns-50-50-inner {
+    margin: 0 95px!important;
+}
+
+footer .widget .edgtf-footer-widget-title {
+    color: #fff;
+    margin-bottom: 27px;
+    font-size: large;
+}
+
+
+footer .edgtf-footer-top-holder {
+    display: block;
+    background-color: #444444!important;
+    background-position: center center;
+    background-size: cover;
+}

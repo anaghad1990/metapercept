@@ -1,0 +1,215 @@
+body .vc_modal{
+	background-color: rgba(0,0,0,0.5) !important;
+}
+.devn-options-label{
+	display: inline-block;
+	min-width: 150px;
+}
+.vc_element-icon.fa{
+	background: none;
+	font-size: 30px;
+	color: #ccc;
+}
+.theme_section_btn{
+	margin-left: 10px;
+	width: 150px;
+	background: #fd4040;
+	border-radius: 2px;
+	line-height: 38px;
+	position: relative;
+	padding: 0px 8px;
+	float: right;
+	color: #fff;
+	font-weight: bold;
+}
+.devn-generator-icon-picker {
+	height: 0;
+	margin: 0 -20px;
+	padding: 0 20px;
+	overflow: hidden;
+	background: #eee;
+	line-height: 24px;
+	-webkit-transition: all .2s;
+	-moz-transition: all .2s;
+	transition: all .2s;
+}
+.devn-generator-icon-picker.devn-generator-icon-picker-visible {
+	height: 0px;
+	margin: 0px;
+	padding: 0px;
+	overflow: auto;
+	transition: all ease 350ms;
+}
+.devn-generator-icon-picker input {
+	margin-bottom: 15px; 
+}
+.devn-generator-icon-picker i,.devn-generator-icon-picker span {
+	display: block;
+	width: 24px;
+	height: 24px;
+	margin-left: 2px;
+	float: left;
+	color: #555;
+	text-align: center;
+	font-size: 14px;
+	line-height: 24px;
+	cursor: pointer;
+	transition: all ease 150ms;
+}
+.devn-generator-icon-picker i:hover,.devn-generator-icon-picker span:hover {
+	color: #00aef0;
+	font-size: 24px;
+}
+body .vc_modal-body{
+	padding: 20px 19px;
+}
+#devn-online-sections{
+	width: 70px;
+	height: 45px;
+	background: #e54c4c url('../images/devn.png') no-repeat center center;
+	background-size: 70%; 
+	display: inline-block;
+	border-radius: 3px;
+	margin-left: 25px;
+	margin-top: -20px;
+	position: relative;
+	bottom: -20px;
+}
+.vc_not-empty #king-online-sections {
+    width: 50px;
+    height: 38px;
+    margin: 0px 0px 0px 15px;
+    bottom: 0px;
+}
+#king-online-sections {
+    width: 70px;
+    height: 45px;
+    background: rgb(159, 202, 69) url('../images/king.jpg') no-repeat center center;
+    background-size: 70%;
+    display: inline-block;
+    border-radius: 3px;
+    margin-left: 25px;
+    margin-top: -20px;
+    position: relative;
+    bottom: -20px;
+}
+#devn-online-sections:hover{
+	background-color: #ca1a1a;	
+}
+.vc_not-empty #devn-online-sections{
+	width: 50px;
+	height: 38px;
+	margin: 0px 0px 0px 15px;
+	bottom: 0px;
+}
+#devn-theme-sections{
+	display: none;
+}
+.popup-overlay {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.65);
+	z-index: 100000;
+	content: "";
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+.popup {
+	position: absolute;
+	height: auto;
+	float: left;
+	width: 800px;
+	left: 50%;
+	top: 100px;
+	margin: 0px 0 100px -400px;
+	z-index: 1000000;
+	background: #fff;
+	border-radius: 5px;
+	border: none;
+	padding-bottom: 10px;
+}
+.popup .popup-head {
+	width: 100%;
+	height: 53px;
+	text-align: center;
+	border-radius: 5px 5px 0 0;
+	margin: 0px;
+	background-color: #e54c4c;
+	position: relative;
+}
+.popup .popup-head h3.poptit {
+	display: inline-block;
+	margin: 0 auto;
+	line-height: 45px;
+	color: #fff;
+	font-size: 16px;
+	max-width: 70%;
+	overflow: hidden;
+	white-space: nowrap;
+	font-family: arial;
+	font-weight: normal;
+	font-size: 21px;
+}
+.popup .popup-head .btn {
+	margin: 12px 5px;
+	padding: 5px 10px 6px 10px;
+	background: none !important;
+	box-shadow: none;
+	text-shadow: none;
+	color: #fff;
+	position: absolute;
+	right: 5px;
+	top: 0px;
+}
+.popup .popup-head .btn:hover {
+	border: 1px solid rgba(0,0,0,0.15);
+	background: rgba(0,0,0,0.05) !important;
+}
+.popup .popup-body {
+	margin: 0px;
+	color: #333;
+	padding: 15px 2% 15px 2%;
+	min-height: 150px;
+	text-align: center;
+}
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+.btn {
+	display: inline-block;
+	margin-bottom: 0;
+	font-weight: 400;
+	text-align: center;
+	vertical-align: middle;
+	cursor: pointer;
+	background-image: none;
+	border: 1px solid transparent;
+	white-space: nowrap;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	border-radius: 4px;
+	user-select: none;
+	text-decoration: none;
+}
+#sectionsStore .loadMore {
+	width: 100%;
+	margin-top: 30px;
+	color: #fff;
+	background-color: #e54c4c;
+}
+#sectionsStore .loadMore:hover{
+	background-color:#ca1a1a;
+}
+.installSection{
+	background: #ddd;
+}	
+.installSection:hover{
+	background: #ccc;
+}

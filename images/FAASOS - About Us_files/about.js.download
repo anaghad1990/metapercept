@@ -1,0 +1,40 @@
+$(window).on("scroll",function(event, delta){
+    $(this).stop( true, true );
+    var redLine = $(".redLine:eq(0)");
+    
+    var scrollTopVal = $(window).scrollTop();
+    var scrollTopVal_Red = redLine.offset().top-600;
+    
+    if (scrollTopVal > scrollTopVal_Red) {
+        var redLineHeight = scrollTopVal - scrollTopVal_Red;
+
+        redLine.animate({height: redLineHeight+"px"},{queue:false, duration:50, easing: 'swing'});
+    }
+    var numberAnimate = $(".statWrapper").offset().top - 400;
+    var comma_separator_number_step = $.animateNumber.numberStepFactories.separator(',');
+    if (scrollTopVal > numberAnimate) {
+        console.log("hey there");
+        $('#meals')
+         .animateNumber({ 
+         number: 30000, 
+         numberStep: comma_separator_number_step,
+         easing: 'swing',
+         },1100);
+         $('#customers')
+         .prop('number', 10000)
+         .animateNumber({ 
+         number: 4000000, 
+         easing: 'swing',
+         numberStep: comma_separator_number_step,
+         },1600);
+         $('#cities').animateNumber({ 
+         number: 15, 
+         easing: 'swing',
+         },800);
+         $(window).off("scroll");
+    }
+    //drawLine(event, delta);
+});
+$(document).ready(function(e) { 
+        $(".timeline").height($(".rightSection").height() + 100);
+    });

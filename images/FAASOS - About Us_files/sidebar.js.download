@@ -1,0 +1,93 @@
+$(document).ready(function() {
+
+
+
+	// $('#about_us').show();
+	// $('#careers').show();
+	// $('#blogs').show();
+	// $('#orders').hide();
+	// $('#addresses').hide();
+	// $('#profile').hide();
+	// $('#madeToOrder').hide();	
+	// $('#log_out').hide();
+	// $('#loginuser').show();
+	// $('#mobile_login').show();
+	// $('.userAvatar').hide();
+	// $('#collections').hide();
+
+	$('#about_us').removeClass('hide');
+	$('#careers').removeClass('hide');
+	$('#blogs').removeClass('hide');
+	$('.ordersSidebar').addClass('hide');
+	$('#addresses').addClass('hide');
+	$('#profile').addClass('hide');
+	$('#shareAndEarn').addClass('hide');
+	$('#madeToOrder').addClass('hide');
+	$('#log_out').addClass('hide');
+	$('#orders').removeClass('hide');
+	$('#mobile_login').removeClass('hide');
+	$('.userAvatar').addClass('hide');
+	$('#collections').addClass('hide');
+
+
+	$(document).on("click",".faasos-menu",function() {
+		var object={};
+		$.ajax({
+
+            url: "/user_data_exists",
+            crossDomain: false,
+            type: 'POST',    
+            
+            success: function(result) {
+            	if(result.msg=='success'){
+            	//$('#about_us').show();
+            	$('#about_us').removeClass('hide');
+				//$('#careers').show();
+				$('#careers').removeClass('hide');
+				//$('#blogs').show();	
+				$('#blogs').removeClass('hide');
+				//$('#orders').show();
+				$('#ordersSidebar').removeClass('hide');
+				//$('#addresses').show();
+				$('#addresses').removeClass('hide');
+				//$('#profile').show();
+				$('#profile').removeClass('hide');
+				$('#shareAndEarn').removeClass('hide');
+				//$('#madeToOrder').show();					
+				$('#madeToOrder').removeClass('hide');
+				//$('#log_out').show();
+				$('#log_out').removeClass('hide');
+				//$('#loginuser').hide();
+				$('#loginuser').addClass('hide');
+				//$('#mobile_login').hide();
+				$('#mobile_login').addClass('hide');
+				//$('.userAvatar').show();
+				$('.userAvatar').removeClass('hide');
+				//$('#collections').show();
+				$('#collections').removeClass('hide');
+				$('#log_out').click(function(){ 
+					clevertap.logout();
+				})
+			}
+			//Sidebar Hide Links
+                if ( !$('.primaryMenuItems li:visible').length ) {
+  			        $('.primaryMenuItems').hide();
+		        }
+		        else {
+			        $('.primaryMenuItems').show();
+		        }
+        
+            },
+            error: function(request, status, error) {
+            	if(request.status === 401){
+            	  window.location.href="/logout";
+            	}
+            	console.log("-----------------");
+            	console.log(error);
+            	console.log("-----------------");
+
+            }
+        })
+
+	});
+});	
