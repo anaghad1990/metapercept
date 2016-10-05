@@ -30,9 +30,6 @@ footer .edgtf-footer-bottom-holder {
     float: left;
 }
 
-.edgtf-five-columns>.edgtf-five-columns-inner, .edgtf-four-columns>.edgtf-four-columns-inner, .edgtf-three-columns>.edgtf-three-columns-inner, .edgtf-two-columns-50-50>.edgtf-two-columns-50-50-inner {
-    margin: 0 95px;
-}
 
 .edgtf-five-columns>.edgtf-five-columns-inner, .edgtf-four-columns>.edgtf-four-columns-inner, .edgtf-three-columns>.edgtf-three-columns-inner, .edgtf-two-columns-50-50>.edgtf-two-columns-50-50-inner {
     margin: 0 95px!important;
@@ -50,4 +47,19 @@ footer .edgtf-footer-top-holder {
     background-color: #444444!important;
     background-position: center center;
     background-size: cover;
+}
+
+.testwidget {
+    color: #fff;
+    margin-bottom: 27px;
+}
+
+
+
+.edgtf-four-columns .edgtf-column {
+    width: 50%!important;
+    float: left;
+}
+edgtf-five-columns .edgtf-column .edgtf-column-inner, .edgtf-four-columns .edgtf-column .edgtf-column-inner, .edgtf-three-columns .edgtf-column .edgtf-column-inner, .edgtf-two-columns-50-50 .edgtf-column .edgtf-column-inner {
+    padding: 0 120px!important;
 }
